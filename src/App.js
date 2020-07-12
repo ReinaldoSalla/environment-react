@@ -1,9 +1,10 @@
 import React from 'react';
-import './App.css';
+import Header from './App-styles';
 
 const App = () => (
-  <h1>test</h1>
+  <Header>
+    JavaScript, Node, React
+  </Header>
 );
 
 export default App;
-
